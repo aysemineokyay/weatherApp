@@ -1,8 +1,14 @@
-# React + Vite
+WeatherApp uygulaması React ve css framework olarak tailwind ile oluşturulmuştur. Kullanıcı "Şehir ekle" butonu ile sağdan açılan sekmeden ülke ve şehir seçimi yaptıktan sonra kaydedebilmekte ve seçtiği şehrin hava durumu bilgilerini görebilmektir.
+Uygulamada ülke ve şehir bilgileri "https://countriesnow.space/" api ile hava durumu bilgileri ise "https://openweathermap.org/api" api ile çekilmiştir. Uygulama ile ilgili görseller aşağıda yer almaktadır.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Genel görünüm:
 
-Currently, two official plugins are available:
+![weatherApp1](https://github.com/aysemineokyay/weatherApp/assets/114666477/856904d3-d543-4c53-a0b0-aeb10fe743a6)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"Şehir ekle" butonuna bastıktan sonra açılan sekme, select list ile ülke ve şehir seçimi:
+ 
+![weatherApp2](https://github.com/aysemineokyay/weatherApp/assets/114666477/3afd9217-5e9a-49d1-b850-1dd5f61a643e)
+
+Şehir eklendikten sonra hava durumu bilgilerinin gösterilmesi:
+
+![weatherApp3](https://github.com/aysemineokyay/weatherApp/assets/114666477/8029cc9f-d0bd-48e4-8c3d-c9dbe42c7c00)
