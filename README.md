@@ -1,5 +1,7 @@
 WeatherApp uygulaması React ve css framework olarak tailwind ile oluşturulmuştur. Kullanıcı "Şehir ekle" butonu ile sağdan açılan sekmeden ülke ve şehir seçimi yaptıktan sonra kaydedebilmekte ve seçtiği şehrin hava durumu bilgilerini görebilmektir.
-Uygulamada ülke ve şehir bilgileri "https://countriesnow.space/" api ile hava durumu bilgileri ise "https://openweathermap.org/api" api ile çekilmiştir. Uygulama ile ilgili görseller aşağıda yer almaktadır.
+Uygulamada ülke ve şehir bilgileri "https://countriesnow.space/" api ile hava durumu bilgileri ise "https://openweathermap.org/api" api ile çekilmiştir. Uygulamanın linki ve uygulama ile ilgili görseller aşağıda yer almaktadır.
+
+Uygulamayı deneyimlemeniz için github pages linki: https://aysemineokyay.github.io/weatherApp/
 
 Genel görünüm:
 
